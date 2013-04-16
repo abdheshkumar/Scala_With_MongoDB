@@ -5,6 +5,6 @@ import com.novus.salat.annotations._
 
 
 
-object MongoSetUp {
+object MongoSetUp extends App{
 
 }

@@ -1,6 +1,0 @@
-set name :="ScalaWithMongo"
-set version :="1.0"
-set scalaVersion :="2.10.0"
-session save
-eclipse
-compile
