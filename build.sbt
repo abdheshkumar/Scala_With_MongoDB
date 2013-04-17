@@ -17,5 +17,6 @@ resolvers += "Sonatype OSS Snapshots" at "https://oss.sonatype.org/content/repos
             "org.scalatest" % "scalatest_2.10" % "1.9.1" % "test",
             "junit" % "junit" % "4.7" % "test",
             "org.specs2" % "specs2_2.10" % "1.14" % "test" ,
-            "com.novus" %% "salat" % "1.9.2-SNAPSHOT"        
+            "com.novus" %% "salat" % "1.9.2-SNAPSHOT",
+            "org.slf4j" % "slf4j-simple" % "1.6.4"        
      )
